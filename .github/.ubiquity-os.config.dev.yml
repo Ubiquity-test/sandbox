@@ -1,7 +1,7 @@
 plugins:
   - skipBotEvents: true
     uses:
-    - plugin: http://127.0.0.1:9090
+    - plugin: http://127.0.0.1:4000
       with:
         evmNetworkId: 100
         evmPrivateEncrypted: "encrypted-key"
