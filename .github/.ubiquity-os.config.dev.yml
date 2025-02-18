@@ -1,4 +1,4 @@
-pluginsplugins:
+plugins:
   - skipBotEvents: true
     uses:
     	# hello-world-plugin
