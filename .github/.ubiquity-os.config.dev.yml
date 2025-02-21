@@ -4,7 +4,7 @@ plugins:
     - plugin: http://127.0.0.1:4000
       with:
         evmNetworkId: 11155111
-        evmPrivateEncrypted: "c0alVtcKGDPTkepcrRi6dV1tC8iXi-WhmM4DfYBUBzZjr6qrxeACh_Iw36DeBw64agOziOUN2Jcwah2gLFza1mnpKlYFa_ahUl_fPgNRF3L227OcbqKV4j12rrhPdmad2x0jwHNISBRA_mL5bpbU9A"
+        evmPrivateEncrypted: "1okrRqk6AGLu2NlnvCP8rrh_0l0shW5co0LvtqPbPCFXxKIyeje6itvgJHpvNlYb8Yz3uYZlZd2zVUOIGzC1p5rXmWo5LCUO7tUgSD1ad7-dzU0AG2Nz815LhETvC0shASHATZPRyEZWyxBdsClJTVrIaxrefZ6a"
         erc20RewardToken: "0x2C78Dd981bFe7EaDd758A878d9655B806394185c"
         dataCollection:
           maxAttempts: 10
