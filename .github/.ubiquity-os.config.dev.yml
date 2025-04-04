@@ -3,7 +3,6 @@ plugins:
     uses:
     - plugin: http://127.0.0.1:4000
       with:
-        automaticTransferMode: true
         evmNetworkId: 11155111
         evmPrivateEncrypted: "yjqiEBcnZOmHcLteVxNapEzWJtXpSzx4lYrGgh5HHgbCXZcq-MZ26tm6LuTGScq76L9LXlHf650Z9upWipMhTYBaUFAOqVYsDT3TzAjf4KUmKiMSC4Q_YUTk04q5uP84hZndIYOvdF0uz1Z2Vvv2zHb8cJybL-J23eg"
         erc20RewardToken: "0x2C78Dd981bFe7EaDd758A878d9655B806394185c"
@@ -33,7 +32,7 @@ plugins:
                 relevance: 1
           userExtractor:
             redeemTask: true
-          permitGeneration: {}
+          payment: {}
           githubComment:
               post: true
               debug: false
